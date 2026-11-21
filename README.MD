@@ -21,9 +21,3 @@ cd src3b-main
 npm install
 npm run build
 ```
-
-## Технологии
-
-- **React 18** - UI библиотека
-- **Redux Toolkit (RTK)** - управление состоянием
-- **CSS Modules** - модульная стилизация
